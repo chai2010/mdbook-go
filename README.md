@@ -2,6 +2,8 @@
 
 这是 Go 语言实现的 mdBook 简化版工具。最初的想法是在 WASM 环境构建一个 mdBook 工具，用于 [《VS Code 插件开发》](https://github.com/chai2010/vscode-extdev-book) 案例。目前计划用于构建一些简单的电子书。
 
+已经迁移到凹语言下，这个仓库不再更新: [https://pkg.go.dev/github.com/wa-lang/mnbook](https://pkg.go.dev/github.com/wa-lang/mnbook)
+
 ## 命令行
 
 ```
